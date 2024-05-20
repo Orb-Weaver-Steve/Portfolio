@@ -164,7 +164,7 @@ nav a {
 
 nav a:hover,
 nav [class*="fa-"]:hover {
-    color: var(--magenta);
+    background-color: var(--magenta);
     cursor: pointer;
 }
 
@@ -294,3 +294,4 @@ footer ul li:hover{
         margin-right: auto;
     }
 }
+
